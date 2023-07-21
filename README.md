@@ -31,3 +31,6 @@
 </br>
 <h3 align="center"> -> Android Dagger Hilt Explanation Part 2</h3>
 <p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1679024871936872449" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bebe44f3e19ce7517a1_s62ArniRRC2JEeZRbH3jL8uA6RzCa3va7ifEc4I5P0g_WOAQOcs5GTn552DT5j6NcKcUQT0y3qiGr_cQcZWXrEHpjU5lOsdhE5XO5MTbvRe7V7hQ7JhkfoKWfOloevM8fewXC2-v.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+<h3 align="center"> -> Android Dagger Hilt Explanation</h3>
+<p align="center"> <a href="https://hiteshkohli.medium.com/mastering-dagger-hilt-a-key-to-success-in-android-interviews-f9eaba46e0f8" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bee9c10a5689cd5e64a_qPOubJQVFNBuF_cDqEwbRTw1cI-9dKzoZ8o18D2XtiOgi4pmoMudEBbHcICtDhwBZSY71CKKqOaaWPnkycOU-w24UtOo5M-z-lul9v78JvvUrHKbaKRHHIpE6Tx5WkALe5tIYnaK.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
