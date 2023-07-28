@@ -39,4 +39,7 @@
 <p align="center"> <a href="https://hiteshkohli.medium.com/mastering-the-android-developer-interview-essential-topics-and-tips-for-success-636f8a56e9f7" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bef80ae86897420ec75_dT0rPCkMXWdb_d6cCbcDILKXYJijN4mhwD3nJtocwSn0JZGYUgi7eGezDpGzTFW-G5cyYV8EpB9bgLO1j0oqn0dVXY3vsc8XRby6WtxZmu-q0qNRgpl-OpurJ0tjEszFUl74GiBn.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
 <h3 align="center"> ->Lessons from Developing an Inventory Management System App for a Client</h3>
 <p align="center"> <a href="https://medium.com/@hiteshkohli/lessons-from-developing-an-inventory-management-system-app-for-a-client-20e08c0fb2b9" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf336e944cfea6d04ef_0fle6xh4WOJEV_q9O_9Uxl-Ov9xfSKqay1pb6GE6myLBM0aJ9Rg5D9ZZ3BWOTqEHoL-QmzSthgsE5U8D18RW4YoggqNRgADl8lh3R39aKgSbgZ5mymdYu6qOVub6VVGEkSo4dHe3.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+<h3 align="center">How to Make an Android App2023: Ultimate Workflow Guide</h3>
+<p align="center"> <a href="https://medium.com/@hiteshkohli/how-to-make-an-android-app2023-ultimate-workflow-guide-ac3ad4999891" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf145999a2dea3f5534_tn-ZHrDula1DCJ0Xf23kkcTcRfdYAfiYUS6bPmkt6L6F0PXh0pxLIRKKJEGHgkL4QjpDrEQWx1YqYb5UOtkakedB3M9L5URk1Zz5zfTfS5OnUzp7d_njiaKQkl2tFuCh4SfwaaPn.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
 
