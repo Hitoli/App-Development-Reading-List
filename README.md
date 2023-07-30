@@ -42,4 +42,5 @@
 <h3 align="center">How to Make an Android App2023: Ultimate Workflow Guide</h3>
 <p align="center"> <a href="https://medium.com/@hiteshkohli/how-to-make-an-android-app2023-ultimate-workflow-guide-ac3ad4999891" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf145999a2dea3f5534_tn-ZHrDula1DCJ0Xf23kkcTcRfdYAfiYUS6bPmkt6L6F0PXh0pxLIRKKJEGHgkL4QjpDrEQWx1YqYb5UOtkakedB3M9L5URk1Zz5zfTfS5OnUzp7d_njiaKQkl2tFuCh4SfwaaPn.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
 
-
+<h3 align="center">Supercharge Your Developer Productivity: Top Tips and Tricks for Maximum Efficiency in 2023</h3>
+<p align="center"> <a href="https://hiteshkohli.medium.com/supercharge-your-developer-productivity-top-tips-and-tricks-for-maximum-efficiency-in-2023-3f14f6f916a1" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d368179f2f6f8d2c071b39_gif2-min.gif" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
