@@ -44,3 +44,6 @@
 
 <h3 align="center">Supercharge Your Developer Productivity: Top Tips and Tricks for Maximum Efficiency in 2023</h3>
 <p align="center"> <a href="https://hiteshkohli.medium.com/supercharge-your-developer-productivity-top-tips-and-tricks-for-maximum-efficiency-in-2023-3f14f6f916a1" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d368179f2f6f8d2c071b39_gif2-min.gif" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">Effective App Testing Strategies for Android: A Developer’s Guide for App Testing (Part -1)</h3>
+<p align="center"> <a href="https://hiteshkohli.medium.com/effective-app-testing-strategies-for-android-a-developers-guide-for-app-testing-part-1-721935153fb2" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
