@@ -50,3 +50,6 @@
 
 <h3 align="center">Effective App Testing Strategies for Android: A Developer’s Guide for App Testing (Part -2)</h3>
 <p align="center"> <a href="https://hiteshkohli.medium.com/effective-app-testing-strategies-for-android-a-developers-guide-for-app-testing-part-2-facabe366706" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf17754bb5fe61e31bd_Ii_PIIKhVdZutnIBzshEj7M-C3JUM3fDCNanHT1rD3m7a2KGJfMeTaVFNQDBD2QIjak6wmwKgNt7bBB33dGkZdK_zX21bY5YKfIwljmj4J5tNhx-f3FMOTcLPoUDiDmzEt-Q3LoE.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">Embracing the Versatility of Enum Classes: Exploring Basics of Enum Classes in Kotlin</h3>
+<p align="center"> <a href="https://medium.com/@hiteshkohli/embracing-the-versatility-of-enum-classes-exploring-basics-of-enum-classes-in-kotlin-ac5117d44f04" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf1cf4ba77ae423d175_zwwc_oN3Ui8Z9CemAU9xH9T4cVHvKQduE8pKaVlXuPGwatLb4QHv2DTnx2XXKrlW0mxuXTY-89EUjk3bpxkIoz9LxH4mpgW8n6_sDq1TTEqfHWscELlm16JyhTfPgtBgT76Vf0gC.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
