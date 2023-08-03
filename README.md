@@ -53,3 +53,6 @@
 
 <h3 align="center">Embracing the Versatility of Enum Classes: Exploring Basics of Enum Classes in Kotlin</h3>
 <p align="center"> <a href="https://medium.com/@hiteshkohli/embracing-the-versatility-of-enum-classes-exploring-basics-of-enum-classes-in-kotlin-ac5117d44f04" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf1cf4ba77ae423d175_zwwc_oN3Ui8Z9CemAU9xH9T4cVHvKQduE8pKaVlXuPGwatLb4QHv2DTnx2XXKrlW0mxuXTY-89EUjk3bpxkIoz9LxH4mpgW8n6_sDq1TTEqfHWscELlm16JyhTfPgtBgT76Vf0gC.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">Struggling with Android Development? Explore These Beginner-Friendly Project Ideas!</h3>
+<p align="center"> <a href="https://hiteshkohli.medium.com/struggling-with-android-development-explore-these-beginner-friendly-project-ideas-2f623b31baeb" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf336e944cfea6d04ef_0fle6xh4WOJEV_q9O_9Uxl-Ov9xfSKqay1pb6GE6myLBM0aJ9Rg5D9ZZ3BWOTqEHoL-QmzSthgsE5U8D18RW4YoggqNRgADl8lh3R39aKgSbgZ5mymdYu6qOVub6VVGEkSo4dHe3.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
