@@ -56,3 +56,6 @@
 
 <h3 align="center">Struggling with Android Development? Explore These Beginner-Friendly Project Ideas!</h3>
 <p align="center"> <a href="https://hiteshkohli.medium.com/struggling-with-android-development-explore-these-beginner-friendly-project-ideas-2f623b31baeb" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf336e944cfea6d04ef_0fle6xh4WOJEV_q9O_9Uxl-Ov9xfSKqay1pb6GE6myLBM0aJ9Rg5D9ZZ3BWOTqEHoL-QmzSthgsE5U8D18RW4YoggqNRgADl8lh3R39aKgSbgZ5mymdYu6qOVub6VVGEkSo4dHe3.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">Struggling with Android Development? Explore These Beginner-Friendly Project Ideas!</h3>
+<p align="center"> <a href="https://medium.com/@hiteshkohli/what-is-gradle-from-basic-to-advance-understanding-the-building-blocks-of-android-development-9d207db609d6" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf3a2121cc74f72a286_0AEnnZYBAYzmSXzyGaopjvEGKKO1yFqf_zMXqFTAT6vUDfXVPRifI3J8oBjZUl51PnRQqf2tqpjiRt33IKgg4sTiJi2YShGTN5iNUIoYbNj2HXobiQg4-k7yBiNT54EKOGYyZOR2.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
