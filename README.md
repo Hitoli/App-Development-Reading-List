@@ -59,3 +59,6 @@
 
 <h3 align="center">What is Gradle from Basic to advance: Understanding the Building Blocks of Android Development</h3>
 <p align="center"> <a href="https://medium.com/@hiteshkohli/what-is-gradle-from-basic-to-advance-understanding-the-building-blocks-of-android-development-9d207db609d6" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf3a2121cc74f72a286_0AEnnZYBAYzmSXzyGaopjvEGKKO1yFqf_zMXqFTAT6vUDfXVPRifI3J8oBjZUl51PnRQqf2tqpjiRt33IKgg4sTiJi2YShGTN5iNUIoYbNj2HXobiQg4-k7yBiNT54EKOGYyZOR2.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">ULTIMATE Roadmap for beginner Android developers. Track your progress and grow.</h3>
+<p align="center"> <a href="https://medium.com/@hiteshkohli/ultimate-roadmap-for-beginner-android-developers-track-your-progress-and-grow-dcbe9e376e90" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bee2f9c713f97b87f5c__5cMqmLryGtlkiKf5o5lHI9w-PC8Oj3XDA-1ZiqJs3fhmnn1q6LLgkX89BI6BEth3Zx_3WV60NPcjRS5OJdmj1xeS4LfYNRaw02jR4KhAlQpS2_cBkzeyc05yVLSryfmuFOzxpJD.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
