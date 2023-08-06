@@ -62,3 +62,6 @@
 
 <h3 align="center">ULTIMATE Roadmap for beginner Android developers. Track your progress and grow.</h3>
 <p align="center"> <a href="https://medium.com/@hiteshkohli/ultimate-roadmap-for-beginner-android-developers-track-your-progress-and-grow-dcbe9e376e90" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bee2f9c713f97b87f5c__5cMqmLryGtlkiKf5o5lHI9w-PC8Oj3XDA-1ZiqJs3fhmnn1q6LLgkX89BI6BEth3Zx_3WV60NPcjRS5OJdmj1xeS4LfYNRaw02jR4KhAlQpS2_cBkzeyc05yVLSryfmuFOzxpJD.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">ULTIMATE Roadmap for beginner Android developers</h3>
+<p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1684560813493993473" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bef33592e7cc8d625ab_i2kpCvliUqxCd1aImmrH7_XsDTj9yYAlsOGh-aEjjB33NhfxMLgxfYdqn5xl75mmGmWx6b7Yxz8UFq-Q5sJanlVBu45pU190BtnYVL1Lv83GmCVoujMjqDWyTcnpnF3AfpTY38Dh.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
