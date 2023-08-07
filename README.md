@@ -65,3 +65,6 @@
 
 <h3 align="center">ULTIMATE Roadmap for beginner Android developers</h3>
 <p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1684560813493993473" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bef33592e7cc8d625ab_i2kpCvliUqxCd1aImmrH7_XsDTj9yYAlsOGh-aEjjB33NhfxMLgxfYdqn5xl75mmGmWx6b7Yxz8UFq-Q5sJanlVBu45pU190BtnYVL1Lv83GmCVoujMjqDWyTcnpnF3AfpTY38Dh.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">ULTIMATE Roadmap for beginner Android developers</h3>
+<p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1687788036908863489" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33beda2121c1da072a006_ySOYV6Hv_-3_ePoGo7SfomlTNvUolaAFk9acsnAUi_CeVJTj7zkxnXCEoa9jCagWpG3IcjJGrEYdiBcqI3vNuKyevQaLjMD0BCaDxupsR8hIO0MBaAap6OzagOGNHooPOp-Cn2e0.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
