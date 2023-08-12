@@ -68,3 +68,7 @@
 
 <h3 align="center">Android Development Journey</h3>
 <p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1687788036908863489" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33beda2121c1da072a006_ySOYV6Hv_-3_ePoGo7SfomlTNvUolaAFk9acsnAUi_CeVJTj7zkxnXCEoa9jCagWpG3IcjJGrEYdiBcqI3vNuKyevQaLjMD0BCaDxupsR8hIO0MBaAap6OzagOGNHooPOp-Cn2e0.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+
+<h3 align="center">Why is there a need for Mapper in Android architecture?</h3>
+<p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1689900979892768768" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d3483b808bc4c058846892_Screenshot%202021-06-23%20201146.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
