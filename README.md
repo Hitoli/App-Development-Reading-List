@@ -72,3 +72,6 @@
 
 <h3 align="center">Why is there a need for Mapper in Android architecture?</h3>
 <p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1689900979892768768" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d3483b808bc4c058846892_Screenshot%202021-06-23%20201146.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
+
+<h3 align="center">How much Data Structure and Algo an Android developer needs? </h3>
+<p align="center"> <a href="https://twitter.com/Hitesh__kohli/status/1689985039918854145" target="blank"><img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33beb7754bb65211e29b4_cndak3oa0RRN-4-9oB-ygKRmif28P1LOTEmZgTYg44e5hTvE_UpstqF7sNX49hok9HVEXDcbLzPYyr5oEMPujY9DSXNIKHpW_nRSy-SYa0RSsoxu1gq8_vl0dUNk9X40Z7JStApb.png" alt="Hitesh Kohli Resume" height="270" width="270" /></a> </p>
