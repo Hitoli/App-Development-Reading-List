@@ -2,6 +2,12 @@
 
 ![background tweet](https://github.com/Hitoli/Android_Questions_-_Topics/assets/97933783/6db7e646-8c65-4d8c-b7bf-86d7fc421d73)
 
+<h1 align="center">App Development Reading List</h1>
+<p align="center">Monte Carlo Search Tree </p>https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
+<p align="center">Minimax Algo for Card Game </p>https://medium.com/@alex.z.mcginnis/using-the-minimax-algorithm-to-create-a-simple-two-player-game-b58f8d8300ab
+<p align="center">Card Game Algo </p>https://stackoverflow.com/questions/12666119/using-minimax-search-for-card-games-with-imperfect-information
+<p align="center">Swift for Jetpack Compose </p>https://chrisbanes.me/posts/swiftui-for-jetpack-compose-devs-state/
+
 <h1 align="center">Android Development Questions and Topics</h1>
 <p align="center"> Please Click On The Photos To Learn More About The Topics </p>
 
