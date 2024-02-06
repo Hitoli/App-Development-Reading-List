@@ -4,10 +4,10 @@
 
 <h1 align="center">App Development Reading List</h1>
 
- [Monte Carlo Search Tree](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
- [Minimax Algo for Card Game ](https://medium.com/@alex.z.mcginnis/using-the-minimax-algorithm-to-create-a-simple-two-player-game-b58f8d8300ab)
- [Card Game Algo](https://stackoverflow.com/questions/12666119/using-minimax-search-for-card-games-with-imperfect-information)
- [Swift for Jetpack Compose](https://chrisbanes.me/posts/swiftui-for-jetpack-compose-devs-state/)
+ [Monte Carlo Search Tree](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)<br>
+ [Minimax Algo for Card Game ](https://medium.com/@alex.z.mcginnis/using-the-minimax-algorithm-to-create-a-simple-two-player-game-b58f8d8300ab)<br>
+ [Card Game Algo](https://stackoverflow.com/questions/12666119/using-minimax-search-for-card-games-with-imperfect-information)<br>
+ [Swift for Jetpack Compose](https://chrisbanes.me/posts/swiftui-for-jetpack-compose-devs-state/)<br>
 
 
 <h1 align="center">Android Development Questions and Topics</h1>
