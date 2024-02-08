@@ -8,6 +8,9 @@
  [Minimax Algo for Card Game ](https://medium.com/@alex.z.mcginnis/using-the-minimax-algorithm-to-create-a-simple-two-player-game-b58f8d8300ab)<br>
  [Card Game Algo](https://stackoverflow.com/questions/12666119/using-minimax-search-for-card-games-with-imperfect-information)<br>
  [Swift for Jetpack Compose](https://chrisbanes.me/posts/swiftui-for-jetpack-compose-devs-state/)<br>
+ [App Icon Theory](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)<br>
+ [Key takeaways from Airbnb’s winter redesign](https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818)<br>
+
 
 
 <h1 align="center">Android Development Questions and Topics</h1>
