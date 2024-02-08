@@ -10,6 +10,11 @@
  [Swift for Jetpack Compose](https://chrisbanes.me/posts/swiftui-for-jetpack-compose-devs-state/)<br>
  [App Icon Theory](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)<br>
  [Key takeaways from Airbnb’s winter redesign](https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818)<br>
+ [Understanding App Architecture for Cross platform mobile app development. (iOS and Android)](https://medium.com/@niranjanky14/understanding-app-architecture-for-cross-platform-mobile-app-development-ios-and-android-5d6ba3c82554)<br>
+ [Offline mode in the Licious Rider App](https://tech.licious.com/offline-mode-in-the-licious-rider-app-56b7d31070b1)<br>
+ [Software Architecture and Design Trend 2023](https://danielfoo.medium.com/software-architecture-and-design-trend-2023-f55ecfbcfcc0)<br>
+ [Implement Clean Architecture in Android](https://medium.com/simform-engineering/clean-architecture-in-android-12d61c4f5318)<br>
+ [Component-based Approach. Fighting Complexity in Android Applications](https://itnext.io/component-based-approach-fighting-complexity-in-android-applications-2eaf5e8c5fad)<br>
 
 
 
