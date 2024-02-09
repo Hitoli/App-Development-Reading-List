@@ -15,6 +15,7 @@
  [Software Architecture and Design Trend 2023](https://danielfoo.medium.com/software-architecture-and-design-trend-2023-f55ecfbcfcc0)<br>
  [Implement Clean Architecture in Android](https://medium.com/simform-engineering/clean-architecture-in-android-12d61c4f5318)<br>
  [Component-based Approach. Fighting Complexity in Android Applications](https://itnext.io/component-based-approach-fighting-complexity-in-android-applications-2eaf5e8c5fad)<br>
+ [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://medium.com/proandroiddev/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)<br>
 
 
 
