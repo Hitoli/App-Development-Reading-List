@@ -17,6 +17,8 @@
  [Component-based Approach. Fighting Complexity in Android Applications](https://itnext.io/component-based-approach-fighting-complexity-in-android-applications-2eaf5e8c5fad)<br>
  [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://medium.com/proandroiddev/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)<br>
  [Enhanced PhonePe User Experience](https://www.behance.net/gallery/185379955/Enhanced-PhonePe-User-Experience)<br>
+ [No, AI user research is not “better than nothing”—it’s much worse](https://uxdesign.cc/no-ai-user-research-is-not-better-than-nothing-its-much-worse-5add678ab9e7)<br>
+
 
 
 
