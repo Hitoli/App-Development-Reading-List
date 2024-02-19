@@ -1,4 +1,6 @@
-# Android  Interview Questions And Topics
+# App Development Reading List
+
+- List of things I find interesting.
 
 ![background tweet](https://github.com/Hitoli/Android_Questions_-_Topics/assets/97933783/6db7e646-8c65-4d8c-b7bf-86d7fc421d73)
 
